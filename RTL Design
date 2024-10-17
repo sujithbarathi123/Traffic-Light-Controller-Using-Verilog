@@ -1,4 +1,5 @@
 timescale 1ns / 1ps
+//sujithbarathi
 module Traffic_Light_Controller(
     input clk,rst,
     output reg [2:0]light_M1,
